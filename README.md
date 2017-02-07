@@ -1,5 +1,7 @@
 TidalCycles / Haskell modules with Scales and Chords.
 
+> Note: This repo is **unmaintained**, tidal-scales will be integrated to main TidalCycles in the 0.9 release.
+
 # Requirements
 
 ghc >= 7.10  
